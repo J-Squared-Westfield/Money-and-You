@@ -596,7 +596,7 @@
             </p>
         </subsection>
 
-        <subsection>
+        <subsection xml:id="subsec-what-will-you-do-to-save-on-groceries">
             <title>Activity: What Are You Going to Do to Save on Groceries?</title>
 
             <p>
@@ -752,25 +752,25 @@
                         <ul>
                             <li>
                                 <p>
-                                    Why do you eat out? (Section 3.2.2)
+                                    Why do you eat out? (Section 3.2.2) (<xref ref="subsec-why-eat-out"/>)
                                 </p>
                             </li>
 
                             <li>
                                 <p>
-                                    It Costs Money to Save (Section 3.2.7)
+                                    It Costs Money to Save (Section 3.2.7) (<xref ref="subec-cost-to-save"/>)
                                 </p>
                             </li>
 
                             <li>
                                 <p>
-                                    What are You Going to Do to Save on Groceries? (Section 3.2.10)
+                                    What are You Going to Do to Save on Groceries? (Section 3.2.10) (<xref ref="subsec-what-will-you-do-to-save-on-groceries"/>)
                                 </p>
                             </li>
 
                             <li>
                                 <p>
-                                    Lower Your Electric Bill (Section 3.3.3)
+                                    Lower Your Electric Bill (Section 3.3.3) (<xref ref="subsec-lower-electricity"/>)
                                 </p>
                             </li>
                         </ul>
